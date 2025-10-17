@@ -1,10 +1,10 @@
 # Hi, I'm Huong Tran
 
 ## Education
-- University of North Carolina at Charlotte &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2021-2024 <br>
+- University of North Carolina at Charlotte &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2021-2024 <br>
 Bachelor of Science in Computer Science <br>
 Concentration: Software, Systems & Networks<br>
-- University of North Carolina at Charlotte &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp 2021-2024 <br>
+- University of North Carolina at Charlotte &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2021-2024 <br>
 Master of Science in Computer Science <br>
 Concentration: Software, Systems & Networks <br>
 
