@@ -1,12 +1,12 @@
 # Hi, I'm Huong Tran
 
 ## Education
-- University of North Carolina at Charlotte &nbsp; 2021-2024 
-Bachelor of Science in Computer Science 
-Concentration: Software, Systems & Networks
-- University of North Carolina at Charlotte &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 2021-2024
-Master of Science in Computer Science			
-Concentration: Software, Systems & Networks
+- University of North Carolina at Charlotte &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2021-2024 <br>
+Bachelor of Science in Computer Science <br>
+Concentration: Software, Systems & Networks<br>
+- University of North Carolina at Charlotte &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp 2021-2024 <br>
+Master of Science in Computer Science <br>
+Concentration: Software, Systems & Networks <br>
 
 ### My recent Projects
 **PRIVIC Privacy-preserving Privacy Location framework**
